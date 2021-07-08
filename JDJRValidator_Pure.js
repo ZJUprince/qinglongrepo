@@ -1,3 +1,6 @@
+/*
+* * * * 1 https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/jd_sign.js
+*/
 const https = require('https');
 const http = require('http');
 const stream = require('stream');
