@@ -1,5 +1,5 @@
 /*
-10 0 * * * https://raw.githubusercontent.com/ZJUprince/qinglongrepo/new/main/jd_try.js
+10 0 * * * https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/jd-try.js
  *由zero205二次修改：脚本默认不运行
  *如需运行请自行添加环境变量：JD_TRY，值填true即可运行
  */
