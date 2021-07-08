@@ -1,7 +1,7 @@
 /* 
 
 只支持nodejs环境
-14 10 * * *
+14 10 * * * https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/jd_sign.js
 */
 
 const validator = require('./ZJUprince_qinglongrepo_JDJRValidator_Pure.js');
