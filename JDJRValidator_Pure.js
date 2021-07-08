@@ -1,5 +1,5 @@
 /*
-* * * * 1 https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/jd_sign.js
+* * * * 1 https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/JDJRValidator_Pure.js
 */
 const https = require('https');
 const http = require('http');
