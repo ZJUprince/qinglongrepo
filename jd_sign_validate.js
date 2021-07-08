@@ -1,3 +1,6 @@
+/*
+* * * * 1 https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/jd_sign.js
+*/
 const navigator = {
   userAgent: require('./USER_AGENTS').USER_AGENT,
   plugins: { length: 0 },
