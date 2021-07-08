@@ -1,5 +1,5 @@
 /*
-* * * * 1 https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/jd_sign.js
+* * * * 1 https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/jd_sign_validate.js
 */
 const navigator = {
   userAgent: require('./USER_AGENTS').USER_AGENT,
