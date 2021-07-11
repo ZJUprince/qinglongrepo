@@ -6,7 +6,7 @@ TG通知群 https://t.me/ningmeng999
 微信公众号:柠檬玩机交流
 [task_local]
 #柠檬许愿池 
-0 8,12 * * * https://raw.githubusercontent.com/Funccclub/backup/main/jd_wish.js
+0 8,12 * * * https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/jd_wish.js
 */
 const $ = new Env('柠檬众筹许愿池');
 const notify = $.isNode() ? require("./sendNotify") : "";
