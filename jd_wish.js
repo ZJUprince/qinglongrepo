@@ -8,7 +8,6 @@ TG通知群 https://t.me/ningmeng999
 #柠檬许愿池 
 0 8,12 * * * https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/jd_wish.js
 */
-const $ = new Env('柠檬众筹许愿池');
 const notify = $.isNode() ? require("./sendNotify") : "";
 const jdCookieNode = $.isNode() ? require("./jdCookie.js") : "";
 let timestamp = Date.now();
