@@ -4,7 +4,7 @@
 领京豆-早起福利，每天8点前访问领取额外京豆奖励
 """
 
-const $ = new Env('早起福利')
+const $ = new Env('早起福利'),
 
 cookies = ''
 
