@@ -4,8 +4,8 @@
 14 10 * * * https://raw.githubusercontent.com/ZJUprince/qinglongrepo/main/jd_sign.js
 */
 
-const validator = require('./ZJUprince_qinglongrepo_JDJRValidator_Pure.js');
-const Faker=require('./ZJUprince_qinglongrepo_jd_sign_validate.js') 
+const validator = require('./JDJRValidator_Pure.js');
+const Faker=require('./sign_validate.js') 
 
 const $ = new Env('京东签到图形验证');
 const notify = $.isNode() ? require('./sendNotify') : '';
